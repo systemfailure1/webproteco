@@ -39,17 +39,17 @@
         <div class="col-lg-4">
           <h2>Primero de los minitextos</h2>
           <p>bla bla bla.</p>
-          <p>texto en geneal, no sirve pa na </p>
+          <p>Espacio para texto 1 :) </p>
           <p><a class="btn btn-info" href="#" role="button">Enlace a otro lado1</a></p>
         </div>
         <div class="col-lg-4">
           <h2>Segundo de los minitextos</h2>
-          <p>mas texto loco. </p>
+          <p>Espacio para texto 2 :)</p>
           <p><a class="btn btn-warning" href="#" role="button">Enlace a otro lado2</a></p>
        </div>
         <div class="col-lg-4">
           <h2>Tercero</h2>
-          <p>no se me ocurre ni que decir AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</p>
+          <p>Espacio para texto 3 :)</p>
           <p><a class="btn btn-success" href="#" role="button">Enlace a otro lado3</a></p>
         </div>
       </div>

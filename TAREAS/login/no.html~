@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<meta chrsert="UTF-8">
+	<title>logueo incorrecto...</title>
+	<link href="./css/bootstrap.css" rel="stylesheet">
+	<h1>Error 441: User Not Found... :(</h1>
+	</head>
+	
+		
+	<body>
+
+	<div class="panel panel-default">
+  <div class="panel-body">
+    <article>
+    <p>
+    Lamentamos los inconvenientes... pero tu usuario y/o contrasenia ingresados<br>
+    no han sido correctos.. si eres un usuario valido, intenta nuevamente
+    </p>
+    </article>
+    
+    <article>
+    <p>Usuario: proteco<br>Contrasenia: proteco123</p>
+    </article>
+    
+  </div>
+</div>
+
+	</body>
+
+</html>

@@ -2,7 +2,7 @@
 <html lang="es">
   <head>
     <meta charset="utf-8"> <!--codificacion-->
-    <title>copia pagina de Bootstrap</title>
+    <title>Emulando pagina de Bootstrap</title>
     <link href="./css/bootstrap.css" rel="stylesheet">
 
   </head>
@@ -28,8 +28,8 @@
 			<div class="row well well-lg">
 				<div class="col-md-6 col-md-offset-3">
 					<h3>Encabezado de la pagina</h3>
-					<p class="lead" center>texto loco que sirve de referencia para que te des una idea de que shou.</p>
-					<p><a class="btn btn-lg btn-danger" href="#" role="button">Aprietame!!!</a></p>
+					<p class="lead" center>Espacio para texto principal</p>
+					<p><a class="btn btn-lg btn-danger" href="#" role="button">Boton principal</a></p>
 				</div>
 			</div>
 		</div>
@@ -37,20 +37,19 @@
 
       <div class="row">
         <div class="col-lg-4">
-          <h2>Primero de los minitextos</h2>
-          <p>bla bla bla.</p>
+          <h2>Titulo 1</h2>
           <p>Espacio para texto 1 :) </p>
-          <p><a class="btn btn-info" href="#" role="button">Enlace a otro lado1</a></p>
+          <p><a class="btn btn-info" href="#" role="button">Boton 1</a></p>
         </div>
         <div class="col-lg-4">
-          <h2>Segundo de los minitextos</h2>
+          <h2>Titulo 2</h2>
           <p>Espacio para texto 2 :)</p>
-          <p><a class="btn btn-warning" href="#" role="button">Enlace a otro lado2</a></p>
+          <p><a class="btn btn-info" href="#" role="button">Boton 2</a></p>
        </div>
         <div class="col-lg-4">
-          <h2>Tercero</h2>
+          <h2>Titulo 3</h2>
           <p>Espacio para texto 3 :)</p>
-          <p><a class="btn btn-success" href="#" role="button">Enlace a otro lado3</a></p>
+          <p><a class="btn btn-info" href="#" role="button">Boton 3</a></p>
         </div>
       </div>
 
